@@ -2,10 +2,15 @@
 流しそうめんのゲームです。<br>
 制作著作　がけっぷち<br>
 Copyright (c) 2021 gakeppuchi<br>
+![github001](https://user-images.githubusercontent.com/71354608/172250820-7ae8c517-da01-48fe-bc4d-5b8ba21e0fe7.jpg)
+<br>
 
 ## How to play<br>
 ハードルを避けながらポイントを獲得してハイスコアを目指そう。<br>
 開始時のライフは３つ。ミスをするとライフが１つ減り、ライフが０になるとゲームオーバーです。<br>
+
+### 画面 <br>
+![github002](https://user-images.githubusercontent.com/71354608/172250838-c7401b08-ccf2-4f98-8519-3627ea8082ca.jpg) <br>
 
 ### 操作<br>
 キーボード入力でキャラクターを操作します。<br>
@@ -16,5 +21,3 @@ Copyright (c) 2021 gakeppuchi<br>
 
 ## Author <br>
 [gakeppuchi](https://twitter.com/X79nx8rcmAmMqJS) <br>
-![github001](https://user-images.githubusercontent.com/71354608/172250820-7ae8c517-da01-48fe-bc4d-5b8ba21e0fe7.jpg)
-![github002](https://user-images.githubusercontent.com/71354608/172250838-c7401b08-ccf2-4f98-8519-3627ea8082ca.jpg)
