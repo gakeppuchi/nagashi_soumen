@@ -18,6 +18,7 @@ Copyright (c) 2021 gakeppuchi<br>
 キーボード２：右に移動<br>
 キーボード３：左に移動<br>
 キーボード４：スタート<br>
+![soumen001](https://user-images.githubusercontent.com/71354608/173181315-b934abf5-ca8f-494e-b2f7-de22a3e68db3.jpg)
 
 ## YOUTUBE<br>
 https://www.youtube.com/watch?v=lJ9FB4B4xzA
